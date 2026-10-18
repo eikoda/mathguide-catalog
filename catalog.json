@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T17:09:05+00:00",
+  "generatedAt": "2026-10-18T23:09:32+00:00",
   "sample": false,
   "units": [
     {
@@ -214,7 +214,7 @@
     },
     {
       "id": "PLQvhoNAcU3iGy6zAGPAzicNEHla4h1LhC",
-      "title": "수학의 답: 중1 - 방정식과 그 해",
+      "title": "[수학의 답] 중1 - 방정식과 그 해",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "PLQvhoNAcU3iFq6f9KnMVTDLiqKpIeU_qI",
-      "title": "수학의 답: 중1 - 일차식과 그 계산",
+      "title": "[수학의 답] 중1 - 일차식과 그 계산",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -244,7 +244,7 @@
     },
     {
       "id": "PLQvhoNAcU3iGkLtjfl2dMZ_otkPGKCPOm",
-      "title": "수학의 답: 중1 - 일차 방정식의 활용",
+      "title": "[수학의 답] 중1 - 일차 방정식의 활용",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -259,7 +259,7 @@
     },
     {
       "id": "PLQvhoNAcU3iHgPdkJ791oqpXLxZ-N2GMg",
-      "title": "수학의 답: 중2 - 일차함수와 그 그래프",
+      "title": "[수학의 답] 중2 - 일차함수와 그 그래프",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -274,7 +274,7 @@
     },
     {
       "id": "PLQvhoNAcU3iFiYCzm1uHmadwKzYjuK6d0",
-      "title": "수학의 답: 중2 - 일차함수의 그래프의 성질과 식",
+      "title": "[수학의 답] 중2 - 일차함수의 그래프의 성질과 식",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -290,7 +290,7 @@
     },
     {
       "id": "PLQvhoNAcU3iHLmj94eG7YKw8WKXvTXON2",
-      "title": "수학의 답: 중2 - 일차함수의 활용",
+      "title": "[수학의 답] 중2 - 일차함수의 활용",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -305,7 +305,7 @@
     },
     {
       "id": "PLQvhoNAcU3iGKUpcsru43XsQg7KTZQ194",
-      "title": "수학의 답: 중2 - 피타고라스의 정리",
+      "title": "[수학의 답] 중2 - 피타고라스의 정리",
       "teacherId": "ebs-learning",
       "series": "수학의 답",
       "grades": [
@@ -317,21 +317,6 @@
       "priority": 7,
       "videoCount": 8,
       "totalSec": 2331
-    },
-    {
-      "id": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "title": "EBS수학 중학교 1학년 이지연 쌤",
-      "teacherId": "ebs-learning",
-      "series": "수학의 답",
-      "grades": [
-        "g1"
-      ],
-      "unitIds": [
-        "g1-prime-factorization"
-      ],
-      "priority": 9,
-      "videoCount": 15,
-      "totalSec": 4906
     }
   ],
   "videos": [
@@ -7585,141 +7570,6 @@
       "id": "TlsWgB7XtCI",
       "title": "[수학의 답] 피타고라스정리 - 직각삼각형에서의 활용ㅣ중학교 2학년",
       "durationSec": 165,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "_kpztovcWfU",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수분해",
-      "durationSec": 350,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "Ag7J3J-4_dk",
-      "title": "[EBS 수학의 답] 소인수분해 - 소수와 합성수",
-      "durationSec": 349,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "9AUw6-obIAU",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수분해를 이용하여 약수 구하기 활용편",
-      "durationSec": 343,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "k_Q_gq5lrVI",
-      "title": "[EBS 수학의 답] 소인수분해 - 소수와 합성수의 성질",
-      "durationSec": 297,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "NQYH02nvdSA",
-      "title": "[EBS 수학의 답] 소인수분해 - 거듭제곱",
-      "durationSec": 352,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "1Z2Aizy-T_c",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수분해 응용하기",
-      "durationSec": 268,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "ADVbW6nHRaM",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수 빨리 찾기",
-      "durationSec": 206,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "dKtO5WQ3yd8",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수분해를 이용하여 약수 구하기",
-      "durationSec": 420,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "FU0q-wSzdD4",
-      "title": "[EBS 수학의 답] 소인수분해 - 거듭제곱 응용하기",
-      "durationSec": 357,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "IhpsiBBHsWs",
-      "title": "[EBS 수학의 답] 소인수분해 - 제곱인 수 만들기",
-      "durationSec": 445,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "WC-XZ-06b2Q",
-      "title": "[EBS 수학의 답] 소인수분해 - 소인수분해를 이용하여 약수의 개수 구하기",
-      "durationSec": 317,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "TQnvuMyTbVo",
-      "title": "[EBS 수학의 답] 소인수분해 - 제곱인 수 만들기 (응용2)",
-      "durationSec": 377,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "g_7ZYd6VYUA",
-      "title": "[EBS 수학의 답] 소인수분해 - 약수와 배수",
-      "durationSec": 311,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "OVR0Tj79esk",
-      "title": "[EBS 수학의 답] 소인수분해 - 제곱인 수 만들기(응용)",
-      "durationSec": 252,
-      "embeddable": true,
-      "available": true,
-      "topicIds": []
-    },
-    {
-      "playlistId": "PLdMPy61AjFPKvh-rZ2YX-kPCL_cIn1XDJ",
-      "id": "L8BN0JjiiJA",
-      "title": "[EBS 수학의 답] 소인수분해 - 약수의 개수가 주어진 자연수 구하기",
-      "durationSec": 262,
       "embeddable": true,
       "available": true,
       "topicIds": []
