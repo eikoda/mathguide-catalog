@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T00:00:16+00:00",
+  "generatedAt": "2026-10-25T00:00:15+00:00",
   "sample": false,
   "units": [
     {
@@ -184,8 +184,8 @@
         "g1-data-analysis"
       ],
       "priority": 3,
-      "videoCount": 301,
-      "totalSec": 92175
+      "videoCount": 351,
+      "totalSec": 107832
     },
     {
       "id": "PLQvhoNAcU3iHqw_xG1USVtMQC3vcKG3yf",
@@ -2566,6 +2566,456 @@
       "id": "hXsX7qCaFJ4",
       "title": "[EBS 수학의 답] 문자의 사용 - 대입과 식의 값",
       "durationSec": 331,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "I54EL19TJcQ",
+      "title": "[EBS 수학의 답] 일차식과 그 계산 - 동류항",
+      "durationSec": 272,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "1ImViuhjSO0",
+      "title": "[EBS 수학의 답] 문자의 사용 - 문자를 사용하여 식으로 나타내기(단위, 비율)",
+      "durationSec": 340,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "pyF_ASEo5Kg",
+      "title": "[EBS 수학의 답] 일차식과 그 계산 - 도형을 활용한 일차식의 계산",
+      "durationSec": 253,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "w6NwmSVa27E",
+      "title": "[EBS 수학의 답] 문자의 사용 - 문자를 사용하여 식으로 나타내기(농도)",
+      "durationSec": 330,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "spxi7-_LelQ",
+      "title": "[EBS 수학의 답] 문자의 사용 - 문자를 사용하여 식으로 나타내기(수)",
+      "durationSec": 302,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "fWROgXROnrA",
+      "title": "[EBS 수학의 답] 일차식과 그 계산 - 분수꼴인 일차식의 덧셈과 뺄셈",
+      "durationSec": 273,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "pP5IkP2mUYU",
+      "title": "[EBS 수학의 답] 문자의 사용 - 분수를 분모에 대입하는 경우",
+      "durationSec": 203,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "DqhypY6iEew",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 부등호의 사용",
+      "durationSec": 372,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "Zn33z14qRcA",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 괄호가 없는 식의 덧셈과 뺄셈",
+      "durationSec": 360,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "45b0BRhq5w4",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 유리수의 덧셈",
+      "durationSec": 509,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "NVpIdz9ZLj8",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 유리수의 곱셈",
+      "durationSec": 215,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "zxDeEZAXz1k",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값이 같고 부호가 다른 두 수",
+      "durationSec": 283,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "T-c4WRCNqzw",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 양의 부호와 음의 부호",
+      "durationSec": 350,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "C4Ahqfr3SQg",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 수직선에서 같은 거리에 있는 점",
+      "durationSec": 301,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "fhb9fC7yN3s",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 바르게 계산한 값 구하기",
+      "durationSec": 353,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "F6CAGpBnJSw",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 곱이 가장 작은 수 만들기",
+      "durationSec": 280,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "BkZeA8zkR9A",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 거듭제곱에서의 부호 결정",
+      "durationSec": 392,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "lLUoQfOnh3E",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 절댓값이 주어진 수의 덧셈과 뺄셈",
+      "durationSec": 277,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "SCGWqdJQY0Y",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 주어진 범위에 속하는 수",
+      "durationSec": 291,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "Np9de6ZcZnI",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 부호 결정하기 문제",
+      "durationSec": 356,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "VtufXWCJzPk",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - ~ 만큼 작고, ~ 만큼 큰 수",
+      "durationSec": 241,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "kEZJ0iHgEvE",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 덧셈과 뺄셈의 활용(도형1)",
+      "durationSec": 246,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "rHY9TYpoGEs",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 혼합계산의 활용(수직선)",
+      "durationSec": 371,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "9b-__18VOkU",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 복잡한 식의 계산",
+      "durationSec": 494,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "8daAPdcbBb4",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값의 대소 관계",
+      "durationSec": 313,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "KhZBlM3ueys",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 곱셈과 나눗셈의 혼합 계산",
+      "durationSec": 274,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "hN4O3HWC_HY",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 세수 이상의 곱셈",
+      "durationSec": 279,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "wCA9JFR8P9Y",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값",
+      "durationSec": 303,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "JwVHyEG4uyI",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값의 범위가 주어진 수",
+      "durationSec": 303,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "ycxcsqwcD-w",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 곱이 가장 큰 수 만들기",
+      "durationSec": 307,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "yVjLDK3oJT8",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 덧셈과 뺄셈의 활용(이야기)",
+      "durationSec": 218,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "XsQCtGGfJO0",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 덧셈과 뺄셈의 활용(수직선1)",
+      "durationSec": 296,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "xhQW5fsJDnI",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 부호 결정하기 문제(기초)",
+      "durationSec": 341,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "zDf6f8BpXow",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 정수와 유리수에 관한 OX 문제",
+      "durationSec": 346,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "lSsomZ6K6jM",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 혼합계산의 활용(이야기)",
+      "durationSec": 234,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "7xRGTCY5ST0",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 유리수란 무엇일까?",
+      "durationSec": 347,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "NOngx7nTMFo",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 주어진 범위에 속하는 기약분수",
+      "durationSec": 424,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "Kw_gr2ovSpA",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값의 성질",
+      "durationSec": 349,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "dSKNU-oxmV8",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 수직선에 나타내기",
+      "durationSec": 235,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "y6mQiydWfvY",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 분배법칙의 활용",
+      "durationSec": 307,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "7jic5oSTXH8",
+      "title": "[EBS 수학의 답] 정수와 유리수의 혼합 계산 - 빈칸에 알맞은 값 구하기(곱셈과 나눗셈)",
+      "durationSec": 296,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "0DiCUuVoArc",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 유리수의 뺄셈",
+      "durationSec": 252,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "a4PxNY34GNA",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - (-1)^n이 포함된 식의 계산",
+      "durationSec": 271,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "KZDy9PG3X2Y",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 절댓값이 같고 부호가 다른 두 수(심화)",
+      "durationSec": 309,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "nSihL7lgRiY",
+      "title": "[EBS 수학의 답] 정수와 유리수의 곱셈/나눗셈 - 곱셈의 교환법칙과 결합법칙",
+      "durationSec": 267,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "eTIMlR5xAGo",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 수의 대소 관계",
+      "durationSec": 404,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "TLFlk18O1p4",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 여러 개의 수를 크기순으로 나열하기",
+      "durationSec": 319,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "kBu9bdxChGM",
+      "title": "[EBS 수학의 답] 정수와 유리수 - 정수란 무엇일까?",
+      "durationSec": 335,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "_wK5TNjw6nY",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 빈칸에 알맞은 값 구하기(덧셈과 뺄셈)",
+      "durationSec": 326,
+      "embeddable": true,
+      "available": true,
+      "topicIds": []
+    },
+    {
+      "playlistId": "PLQvhoNAcU3iHZeSugYLQ16rDZLffmyBjc",
+      "id": "9Fl-qntz6wo",
+      "title": "[EBS 수학의 답] 정수와 유리수의 덧셈/뺄셈 - 덧셈의 교환법칙과 결합법칙",
+      "durationSec": 338,
       "embeddable": true,
       "available": true,
       "topicIds": []
